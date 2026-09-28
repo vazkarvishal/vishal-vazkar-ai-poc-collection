@@ -1,0 +1,13 @@
+{
+  "name": "Reading Property Watch",
+  "areas": ["Caversham", "Caversham Heights", "Emmer Green", "Earley", "Lower Earley", "Woodley", "Shinfield", "Tilehurst"],
+  "max_price": 800000,
+  "min_bedrooms": 4,
+  "min_bathrooms": 3,
+  "min_sqft": 1500,
+  "min_qualifying_bedrooms": 2,
+  "min_bedroom_length_m": 4,
+  "min_bedroom_width_m": 3,
+  "max_station_minutes": 20,
+  "max_outliers": 5
+}

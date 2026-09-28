@@ -1,0 +1,16 @@
+[
+  {
+    "area": "Caversham", "address": "Example Road 1", "postcode": "RG4 0AA", "source": "example", "agent": "Example Agent", "url": "https://example.com/listing/1",
+    "price": 695000, "status": "for sale", "detached": true, "bedrooms": 4, "bathrooms": 3, "sqft": 1600,
+    "bedroom_dimensions": [[4.2, 3.2], [4.0, 3.0]], "large_kitchen": true, "garage": true, "garden": true,
+    "station": "Reading", "station_minutes": 15, "crime_risk": false, "flood_risk": false, "road_noise_risk": false, "school_access_weak": false,
+    "scores": {"location": 13, "station": 9, "school": 8, "flood": 10, "environment": 4, "size_layout": 14, "value": 12, "kitchen": 7, "garage_garden": 7, "condition": 2, "amenities": 2},
+    "highlights": ["1,600 sq ft; two qualifying bedrooms", "Garage and private garden", "Reading station: estimated 15 minutes"]
+  },
+  {
+    "area": "Earley", "title": "Example smaller detached house", "source": "example", "agent": "Example Agent", "url": "https://example.com/listing/2",
+    "price": 670000, "status": "for sale", "detached": true, "bedrooms": 4, "bathrooms": 2, "sqft": 1350,
+    "bedroom_dimensions": [[4.1, 3.1], [3.5, 2.9]], "large_kitchen": true, "garage": true, "garden": true,
+    "station_minutes": 12, "crime_risk": false, "flood_risk": false, "road_noise_risk": false, "school_access_weak": false
+  }
+]
